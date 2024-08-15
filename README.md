@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Liam, a U3 Software Engineer from Canada 🇨🇦
+
+About me 
+
+  ✍🏻 Studying at McGill University
+  💡 Loves learning and gaining knowledge on new subjects
+  🏒 Big sports enthusiast
+  👨🏻‍💻 Coding for 4 years and counting!
+
 <!--
 **liamdichiro/liamdichiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
