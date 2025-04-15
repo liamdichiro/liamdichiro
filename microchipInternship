@@ -1,0 +1,7 @@
+Microchip Technology, Montreal, Canada 					   		    			             
+Engineering Intern (DevOps)								     January 2025 – April 2025    
+• Developed a Git-SVN migration tool to automate version control workflows, integrating Git and SVN for seamless push and pull operations. 
+• Automated CI/CD pipelines in Jenkins, creating a Multibranch Pipeline project to manage regression testing, and automate pull request creation, merges, and error handling. 
+• Delivered technical presentations and created a comprehensive Confluence page documenting the Git-SVN migration tool and its integration with Bitbucket and Jenkins. 
+• Implemented error handling and reporting systems, generating HTML reports for test results and integrating vManager API to pull test data and track build failures. 
+• Collaborated with teams to improve tooling and workflow automation, enhancing DevOps practices and supporting continuous integration for faster development cycles.
