@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-I'm Liam, a U3 Software Engineer from Canada 🇨🇦
+I'm Liam, a U4 Software Engineer from Canada 🇨🇦
 
 About me 
 
   ✍🏻 Studying at McGill University 
   
-  💡 Loves learning and gaining knowledge on new subjects 
+  💡 Love learning and gaining knowledge on new subjects 
   
   🏒 Big sports enthusiast 
   
-  👨🏻‍💻 Coding for 4 years and counting! 
+  👨🏻‍💻 Coding for 5 years and counting! 
   
 
 <!--
